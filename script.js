@@ -16,7 +16,7 @@ function add() {
     return
   }
 
-  alert("dia já incluso 💹")
+  alert("dia incluso 💹")
 
   nlwSetup.addDay(today)
 }
